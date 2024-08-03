@@ -1,0 +1,20 @@
+    #t {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(64, 64, 119);
+    }
+
+    #bg {
+        background-color: lavender;
+        border: 2px dashed blueviolet;
+        padding: 10px 20px 10px 20px;
+        margin: 20px;
+    }
+
+    #vi {
+        background-image: url("snow.jpg");
+        border: 2px dashed black;
+        margin: 20px;
+        padding: 50px 100px 10 0px 50px;
+        display: block ;
+
+    }    
